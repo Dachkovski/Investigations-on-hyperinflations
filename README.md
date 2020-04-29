@@ -1,1 +1,1 @@
-# Investigations-on-hyperinflations
+# Investigations on hyperinflations
