@@ -10,5 +10,5 @@ This analysis includes hyperinflations from different countries and the correspo
 - What are the correlations between inflation and a) population growth, b) real income, c) unemployment rate and d) inequality?
 - How do hyperinflations affect capitalizations of companies and willingness to invest?
 
-## Data Source
+## Data Sources:
 Gapminder: "Gapminder is an independent Swedish foundation with no political, religious or economic affiliations. Gapminder is a fact tank, not a think tank. Gapminder fights devastating misconceptions about global development." (Source: https://www.gapminder.org/about-gapminder/)
