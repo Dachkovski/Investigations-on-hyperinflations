@@ -35,6 +35,8 @@ The main findings of the code can be found at the post available [here](https://
 MIT License
 
 Copyright (c) 2020 Dennis Dachkovski
+Must give credit to Gapminder and affiliates for the data. 
+You can find the Licensing for the data and other descriptive information at the Gapminder link available [here](https://www.gapminder.org/). 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -53,6 +55,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-Must give credit to Gapminder and affiliates for the data. 
-You can find the Licensing for the data and other descriptive information at the Gapminder link available [here](https://www.gapminder.org/). 
